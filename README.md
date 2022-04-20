@@ -33,3 +33,22 @@ And how can we beggin to answer those questions?
     - 4.1 Cross the date information with COVID-19 cases in Germany
     - 4.2 Cross the date information with Hospital Capacity
     - 4.3 See if we find intresting information, milestones or similar information in news articles
+
+# Practical questions about the data:
+
+### Step 2: Exploring the data
+
+In this specific notebook I'll see the state of art of the data collected from Vergabe NRW and see what problems does it has. The following will be verified:
+
+
+
+1. Is there duplicates?
+2. Is there missing data?
+    - what is this missing data doing in my db?
+    
+3. Is there encoding problem?
+4. Do the cities have always the same name? Or do they have different writings?
+5. Is there any information regarding costs? Are the derzeitige Werten (valores correntes)?
+6. What each collumn means?
+7. What each observation is?
+8. Which of the above questions (Step 1) can we answer?
